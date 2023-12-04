@@ -8,4 +8,4 @@ In this repo, Go Fiber serve static from NextJS (NextJS build)
 - go build main.go
 - cd nextjs
 - yarn build
-- browse to localhost:8080
+- browse to http://localhost:8080
